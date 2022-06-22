@@ -5,7 +5,5 @@ module.exports = {
 	],
 	swDest: 'C:/Users/jjackson/Documents/Projects/Datacore/sw.js',
 	ignoreURLParametersMatching: [
-		/^utm_/,
-		/^fbclid$/
 	]
 };
